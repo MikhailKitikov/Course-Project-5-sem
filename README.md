@@ -1,2 +1,2 @@
 "# Course-Project-5-sem" 
-# Course-Project-5-sem
+Процесс запуска описан в приложениях к докладу
