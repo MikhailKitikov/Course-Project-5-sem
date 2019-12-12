@@ -1,6 +1,6 @@
-В процессе обучения сети я конвертировал датасет с машинками в hd5.
+РЇ РїСЂРµРѕР±СЂР°Р·РѕРІС‹РІР°Р» РґР°С‚Р°СЃРµС‚ РІ Р±РѕР»РµРµ Р±С‹СЃС‚СЂС‹Р№ С„РѕСЂРјР°С‚ hd5.
 Train dataset: https://drive.google.com/open?id=1KehJyEGE4wfk_W9gciFb4lMEh5qFqP8C
 Validation dataset: https://drive.google.com/open?id=1pl4DzuSe3Mzwgr2wegrfM_6KOsJwe2xX
 
-Также претренированные веса для сверточной части сети находятся по ссылке:
+РџСЂРµС‚СЂРµРЅРёСЂРѕРІР°РЅРЅС‹Рµ РІРµСЃР° РґР»СЏ СЃРІРµСЂС‚РѕС‡РЅРѕР№ С‡Р°СЃС‚Рё SSD (СЃРµС‚СЊ VGG16):
 https://drive.google.com/open?id=1sBmajn6vOE7qJ8GnxUJt4fGPuffVUZox
